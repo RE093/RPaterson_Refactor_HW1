@@ -1,5 +1,5 @@
 # monash_bootcamp_unit_1
-
+```
 • Added a consise title
 • Added comments to HTML & CSS
 • Renamed "hero" class to "background-image"
@@ -10,7 +10,11 @@
 • Made benefits image tags consistent
 • Removed duplicated text in CSS by merging relevant classes
 • Put CSS into a logical order as per web layout and HTML order
+```
 
+## Acceptance Criteria
+
+```
 So now,
 WHEN you view the source code
 THEN you find semantic HTML elements
@@ -22,3 +26,4 @@ WHEN you view the heading attributes
 THEN they fall in sequential order
 WHEN you view the title element
 THEN you find a concise, descriptive title
+```
