@@ -10,6 +10,9 @@
 • Made benefits image tags consistent
 • Removed duplicated text in CSS by merging relevant classes
 • Put CSS into a logical order as per web layout and HTML order
+• Changed div tag to nav tag in navigation section
+• Changed div's to sections as need be
+• Added a comments to individual sections
 ```
 
 ## Acceptance Criteria
