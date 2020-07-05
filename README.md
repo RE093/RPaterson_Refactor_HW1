@@ -8,7 +8,7 @@ this is a description
 - [Usage Information](#Usage-Information)
 - [Contribution Guidelines](#Contribution-Guidelines)
 - [Test Instructions](#Test-Instructions)
-- [Licence](#Licence)
+- [Lic/Users/rupertpaterson/Monash_Bootcamp/MU Course Material/09-NodeJS/02-Homework/README.mdence](#Licence)
 - [Questions](#Questions)
 
 ## Installation Instructions
@@ -24,7 +24,7 @@ no contribution
 no test
 
 ## Licence
-licence1
+This application is licensed using the MIT License [Link Here](MIT-license.txt)
 
 ## Questions
 GitHub: https://github.com/re093
