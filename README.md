@@ -3,13 +3,13 @@
 this is a description
 
 ## Table of Contents
--[Description](#Description)
--[Installation Requirements](#Installation-Instructions)
--[Usage Information](#Usage-Information)
--[Contribution Guidelines](#Contribution-Guidelines)
--[Test Instructions](#Test-Instructions)
--[Licence](#Licence)
--[Questions](#Questions)
+- [Description](#Description)
+- [Installation Requirements](#Installation-Instructions)
+- [Usage Information](#Usage-Information)
+- [Contribution Guidelines](#Contribution-Guidelines)
+- [Test Instructions](#Test-Instructions)
+- [Licence](#Licence)
+- [Questions](#Questions)
 
 ## Installation Instructions
 no install
@@ -24,7 +24,7 @@ no contribution
 no test
 
 ## Licence
-licence2
+licence1
 
 ## Questions
 GitHub: https://github.com/re093
