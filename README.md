@@ -1,32 +1,34 @@
-# monash_bootcamp_unit_1
-```
-• Added a consise title
-• Added comments to HTML & CSS
-• Renamed "hero" class to "background-image"
-• Added image "alt" attributes
-• Changed div class header tag to just header tag
-• Re-formatted HTML to follow logical order as it appears on the web page
-• Indented head/ body content in one space
-• Made benefits image tags consistent
-• Removed duplicated text in CSS by merging relevant classes
-• Put CSS into a logical order as per web layout and HTML order
-• Changed div tag to nav tag in navigation section
-• Changed div's to sections as need be
-• Added a comments to individual sections
-```
+# project
+---
 
-## Acceptance Criteria
+## Description
+I am a description
 
-```
-So now,
-WHEN you view the source code
-THEN you find semantic HTML elements
-WHEN you view the structure of the HTML elements
-THEN you find that the elements follow a logical structure independent of styling and positioning
-WHEN you view the image elements
-THEN you find accessible alt attributes
-WHEN you view the heading attributes
-THEN they fall in sequential order
-WHEN you view the title element
-THEN you find a concise, descriptive title
-```
+## Table of Contents
+[Description]
+[Installation Requirements]
+[Usage Information]
+[Contribution Guidelines]
+[Test Instructions]
+[Licence]
+[Questions]
+
+## Installation Instructions
+no install
+
+## Usage Information
+no usage information
+
+## Contribution Guidelines
+no contribution guidelines
+
+## Test Instructions
+no test instructions
+
+## Licence
+licence1
+
+## Questions
+GitHub re093
+Email re.paterson@gmail.com
+
