@@ -38,5 +38,6 @@ none
 This application is not using a license
 
 ## Questions
+For further information, please feel free to contact me on either of the links below
 GitHub: https://github.com/re093
  Email: re.paterson000@gmail.com
