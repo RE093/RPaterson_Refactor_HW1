@@ -1,7 +1,7 @@
-# w
+# Good README Generator
 [![License](https://img.shields.io/badge/License-None%20-lightgrey.svg)]()
 ## Description
-w
+The aim of This project was to create a README generator utilizing Node.js and ES6+. This is a command line application that uses user input along with the NPM inquirer package.
 
 ## Table of Contents
 - [Description](#Description)
@@ -13,21 +13,30 @@ w
 - [Questions](#Questions)
 
 ## Installation Instructions
-w
+1. Create an index.js file in your local folder
+2. Ensure you have Node.js installed, along with NPM
+3. Generate a package.json file
+4. install inquirer
+5. Copy the contents of this index.js file into your index.js file. 
+6. Copy the license.txt file you want to use for your own project into your project folder. 
+7. Note: If you want to use a different license than listed. Make sure to add a .txt file for that license and update the links in the index.js file to ensure correct functionality.
 
 ## Usage Information
-w
+1. Using the command line, navigate your way to the folder containing your index.js file.
+2. Enter 'node index.js' into your command line.
+3. Follow the input instructions.
+4. Open the README.md file created and copy the contents into the README.md file for you project.
+5. All done!
 
 ## Contribution Guidelines
-w
+none
 
 ## Test Instructions
-w
+none
 
 ## License
-This application is licensed using the None [Link Here](None)
+This application is not using a license
 
 ## Questions
-GitHub: https://github.com/w
- Email: w
-
+GitHub: https://github.com/re093
+ Email: re.paterson000@gmail.com
