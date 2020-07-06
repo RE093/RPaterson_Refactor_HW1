@@ -1,5 +1,5 @@
-# das
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-red.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# sad
+[![License](https://img.shields.io/badge/License-Apache%202.0-purple.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Description
 s
 
@@ -13,7 +13,7 @@ s
 - [Questions](#Questions)
 
 ## Installation Instructions
-ss
+s
 
 ## Usage Information
 s
@@ -25,8 +25,8 @@ s
 s
 
 ## License
-This application is licensed using the GNU General Public License v3.0 [Link Here](GNU-license.txt)
+This application is licensed using the Apache License v2.0 [Link Here](Apache-license.txt)
 
 ## Questions
-GitHub: https://github.com/s
+GitHub: https://github.com/ds
  Email: d
