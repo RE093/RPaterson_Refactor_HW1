@@ -1,5 +1,5 @@
 # w
-[![License](https://img.shields.io/badge/License-None%202.0-lightgrey.svg)]()
+[![License](https://img.shields.io/badge/License-None%20-lightgrey.svg)]()
 ## Description
 w
 
